@@ -1,0 +1,59 @@
+<section>
+  <h2>Featured articles</h2>
+  <div>
+    <article>
+      <h3>How to develop a mobile app with JS</h3>
+    </article>
+    <article>
+      <h3>How to develop a desktop app with JS</h3>
+    </article>
+    <article>
+      <h3>How to develop a web app with JS</h3>
+    </article>
+  </div>
+</section>
+
+<section>
+  <h2>New articles</h2>
+  <div>
+    <article>
+      <h3>How to develop a mobile app with JS</h3>
+    </article>
+    <article>
+      <h3>How to develop a desktop app with JS</h3>
+    </article>
+    <article>
+      <h3>How to develop a web app with JS</h3>
+    </article>
+  </div>
+</section>
+
+<section>
+  <h2>Articles series</h2>
+  <div>
+    <article class="serie">
+      <h3>HTML</h3>
+      <p>from zero</p>
+    </article>
+    <article class="serie">
+      <h3>CSS</h3>
+      <p>from zero</p>
+    </article>
+    <article class="serie">
+      <h3>JS</h3>
+      <p>from zero</p>
+    </article>
+    <article class="serie">
+      <h3>React</h3>
+      <p>from zero</p>
+    </article>
+  </div>
+</section>
+
+<section>
+  <h2>Do we send you tutorials?</h2>
+  <form id="contact-form">
+    <input placeholder="luis@example.com" type="email">
+    <button type="submit">SUSCRIBE</button>
+  </form>
+</section>
